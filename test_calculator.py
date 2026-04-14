@@ -22,9 +22,9 @@ class TestCalculator(unittest.TestCase):
         assert multiply(-10, -10) == 100
 
     def test_divide(self): # 3 assertions
-        assert div(100, 1) == 100
-        assert div(10, -0.5) == -20
-        assert div(-10, -20) == 0.5
+        assert div(1, 100) == 100
+        assert div(-0.5, 10) == -20
+        assert div(-20, -10) == 0.5
      ##########################
 
 ######## Partner 2
