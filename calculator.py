@@ -1,3 +1,7 @@
+# https://github.com/Edison-LaraBojay/LAB11-ELB-LO.git
+# Partner 1: Edison Lara-Bojay
+# Partner 2: Lucas Ocano
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
