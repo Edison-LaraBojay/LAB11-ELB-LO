@@ -34,8 +34,6 @@ def exp(a, b):
     return a ** b
 
 
-import math
-
 def add(a, b): 
     return a + b
 
