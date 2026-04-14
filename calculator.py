@@ -50,7 +50,7 @@ def logarithm(a, b):
     if b <= 0:
         raise ValueError("Argument b must be positive.")
     
-    return math.log(a, b)
+    return math.log(b, a)
 
 def exponent(a, b):
     return a**b
